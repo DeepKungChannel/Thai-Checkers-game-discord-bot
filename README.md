@@ -20,7 +20,7 @@ python3 bot.py
 
 ### Update your local git repository
 ```bash
-git pull <Your remote name> master
+git pull <Your remote name> main
 ```
 
 or
